@@ -77,5 +77,7 @@ If nothing you have covers the job, it says so and recommends what to install â€
 - [launch-film](https://github.com/maisonlumiere/launch-film) â€” turn brand photos into a beat-synced launch reel, zero cost
 
 ---
+## Demo
 
+https://github.com/maisonlumiere/tool-sensei/raw/main/tool%20sensei.mp4 
 MIT License
